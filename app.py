@@ -192,7 +192,7 @@ def main():
 
     if st.button('Download'):
         try:
-            if 'youtube.com' in url:
+            if 'youtube.com' in url or 'youtu.be' in url:
                 # download youtube song
                 audio_stream_bytes = download_youtube_audio(url)   
                 firebase_url = save_file_to_firebase(f'song.mp3', audio_stream_bytes, None)
