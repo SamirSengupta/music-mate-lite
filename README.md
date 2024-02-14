@@ -17,7 +17,6 @@ Music Mate Lite is a simple and user-friendly web application that allows users 
 ## Screenshots
 
 ![Screenshot 1](bg1.png)
-*Caption for Screenshot 1*
 
 ## Development
 This application is built using Streamlit, a Python library for building web applications. You can find the source code for Music Mate Lite on GitHub [here](#).
