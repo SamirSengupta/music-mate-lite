@@ -9,7 +9,7 @@ Music Mate Lite is a simple and user-friendly web application that allows users 
 - **User-Friendly Interface:** The application is designed to be intuitive and easy to use for users of all levels.
 
 ## Usage
-1. Visit the Music Mate Lite website [here](#).
+1. Visit the Music Mate Lite website [here](https://music-mate-by-samir-sengupta.streamlit.app/).
 2. Enter the name of the song you want to download in the search bar.
 3. Select the desired song from the search results.
 4. Click on the download button to save the song to your device.
