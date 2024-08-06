@@ -253,16 +253,16 @@ def main():
         except Exception as e:
             st.error(str(e))
 
-    # st.markdown(
-    #     """
-    #     <br><br>
-    #     Follow me on:
-    #     <br>
-    #     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamirSengupta)
-    #     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samirsengupta/)
-    #     """,
-    #     unsafe_allow_html=True
-    # )
+    st.markdown(
+        """
+        <br><br>
+        Follow me on:
+        <br>
+        [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamirSengupta)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samirsengupta/)
+        """,
+        unsafe_allow_html=True
+    )
 
 if __name__ == '__main__':
     main()
